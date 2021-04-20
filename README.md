@@ -31,6 +31,10 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
   <img style="margin: 10px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="HTML5" height="50" />  
   <img style="margin: 10px" src="https://www.logolynx.com/images/logolynx/0d/0d35ef6c8d4fdaf0590228404dc6448b.png" alt="CSS3" height="50" />  
+  </br>
+  <img style="margin: 10px" src="https://cdn2.dontpayfull.com/media/logos/size/300x300/unity3d.com..png?v=20190621144151577306" alt="Unity" height="50" /> 
+  <img style="margin: 10px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" height="50" /> 
+
 </div>
 
 
