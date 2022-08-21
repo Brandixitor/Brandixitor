@@ -1,7 +1,7 @@
 # **<div align="center">Hi there 👋, welcome to my GitHub Profile</div>**  
   
 
-### <div align="center">I am Med Salah Bourouba (Brandixitor), a software engineering student [@HolbertonSchool](https://github.com/holbertonschool) in Tunis, Tunisia</div>  
+### <div align="center">I am Med Salah Bourouba (Brandixitor), a software engineeri, Unity AR/VR developer based in Tunis, Tunisia</div>  
   
 
 <p align="center">
